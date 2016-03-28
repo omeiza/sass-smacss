@@ -5,7 +5,7 @@ A basic-level understanding of **SASS** and **SMACSS** architecture is needed, T
 
 #Basic Usage
 ##Structure
-`
+
 config.rb
 css
   styles.css
@@ -34,4 +34,4 @@ scss
   state
     _index.scss
   styles.scss
-`
+
