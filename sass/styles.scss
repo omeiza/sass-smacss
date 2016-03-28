@@ -1,0 +1,17 @@
+//Compass
+@import "compass";
+
+//Helpers comprising of functions and variables 
+@import "helpers/index";
+
+//Base components
+@import "base/index";
+
+//Main layout components
+@import "layout/index";
+
+//Resuable components (Modules)
+@import "modules/index";
+
+//Initial, current and futures states change
+@import "state/index";

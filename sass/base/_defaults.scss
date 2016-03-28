@@ -1,0 +1,11 @@
+// Base styling for the whole project
+*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+body {
+	//variables could be defined at helpers/variables and used here
+	font: 14px arial, sans-serif;
+	text-rendering: optimizeLegibility;
+	line-height: 1.5;
+	color: #000;
+	overflow-x: hidden;
+}
